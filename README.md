@@ -44,7 +44,7 @@ var me = {
 
 <br>
 
-## My Statistics 📊
+<h1 align="center">My Statistics 📊</h1>
 
 <p align="center">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=v-rowjee&show_icons=true&theme=gruvbox&hide_border=true" />
@@ -57,7 +57,7 @@ var me = {
 
 <br/>
 
-## My Snake 🐍
+<h1 align="center">My Snake 🐍</h1>
 
 <div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg" />
