@@ -30,11 +30,13 @@
 ```js
 var me = {
 
-  fullName: "Ved Hurry Rowjee",
+  Name: "Ved Rowjee",
 
   title: "Computer Science Student",
 
-  currentLocation: "Vacoas, Mauritius",
+  country: "Mauritius",
+  
+  experience: ["Internship at Ceridian"],
 
   education: ["University of Mauritius", "College du St Esprit"],
 
