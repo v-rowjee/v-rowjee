@@ -56,9 +56,9 @@ var me = {
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=v-rowjee&theme=gruvbox&hide_border=true" />
 </p>
 
-<br>
+<!-- <br>
 
-![Ved' Activity Graph](https://activity-graph.herokuapp.com/graph?username=v-rowjee&custom_title=Ved's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
+![Ved' Activity Graph](https://activity-graph.herokuapp.com/graph?username=v-rowjee&custom_title=Ved's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545) -->
 
 <br/>
 
