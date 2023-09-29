@@ -65,6 +65,7 @@ var me = {
 
 ![Ved' Activity Graph](https://activity-graph.herokuapp.com/graph?username=v-rowjee&custom_title=Ved's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545) -->
 
+<!--
 <br/>
 
 <h1 align="center">My Snake 🐍</h1>
