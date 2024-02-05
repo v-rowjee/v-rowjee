@@ -2,7 +2,7 @@
   <b>Ved Rowjee</b>
 </h1>
 <p align="center">
-  Hey there👋 I'm a Computer Science student at University Of Mauritius.
+  Hey there👋 I'm a Software Developer at Dayforce, Mauritius.
 </p>
 
 
@@ -40,7 +40,7 @@ var me = {
 
   Name: "Ved Rowjee",
 
-  title: "Computer Science Student",
+  title: "Software Developer",
 
   country: "Mauritius",
   
@@ -65,11 +65,3 @@ var me = {
 
 ![Ved' Activity Graph](https://activity-graph.herokuapp.com/graph?username=v-rowjee&custom_title=Ved's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545) -->
 
-<!--
-<br/>
-
-<h1 align="center">My Snake 🐍</h1>
-
-<div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg" />
-</div>
