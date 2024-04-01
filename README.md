@@ -44,9 +44,9 @@ var me = {
 
   country: "Mauritius",
   
-  experience: ["Internship at Ceridian"],
+  experience: ["Internship at Ceridian", "Currently working at Dayforce"],
 
-  education: ["University of Mauritius", "College du St Esprit"],
+  education: ["College du St Esprit", "University of Mauritius"],
 
 };
 
